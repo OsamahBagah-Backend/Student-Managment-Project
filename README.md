@@ -42,7 +42,6 @@
 
 ![واجهة تسجيل الدخول](screenshots/LoginBage.png)
 ![إدارة الطلاب](screenshots/StudentsBage.png)
-![تقرير المصروفات](screenshots/Expences.png)
 ![ادارة الحسابات](screenshots/UsersBage.png)
 ![حساب جديد](screenshots/NewUserBage.png)
 ![الرئيسية](screenshots/HomeBage.png)
