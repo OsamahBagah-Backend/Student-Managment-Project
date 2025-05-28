@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4ae7005c-ddf9-4184-adf6-e19b5829b19c": {
+      "ProjectGuid": "4ae7005c-ddf9-4184-adf6-e19b5829b19c",
+      "DisplayName": "StudentsManagementBusinessLayer",
+      "ColorIndex": 0
+    },
+    "4bacf370-f9a3-4bdb-9b88-fcab11879c5b": {
+      "ProjectGuid": "4bacf370-f9a3-4bdb-9b88-fcab11879c5b",
+      "DisplayName": "StudentsManagmentProject",
+      "ColorIndex": 1
+    },
+    "4b3e0d47-ec32-4a37-bebb-4bde3b1efc2d": {
+      "ProjectGuid": "4b3e0d47-ec32-4a37-bebb-4bde3b1efc2d",
+      "DisplayName": "StudentsManagementDataAccessLayer",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

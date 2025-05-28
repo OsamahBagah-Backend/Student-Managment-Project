@@ -1,0 +1,9 @@
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\bin\Debug\StudentsManagementBusinessLayer.dll
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\bin\Debug\StudentsManagementBusinessLayer.pdb
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\bin\Debug\StudentsManagementDataAccessLayer.dll
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\bin\Debug\StudentsManagementDataAccessLayer.pdb
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\obj\Debug\StudentsManagementBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\obj\Debug\StudentsManagementBusinessLayer.csproj.CopyComplete
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\obj\Debug\StudentsManagementBusinessLayer.dll
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\obj\Debug\StudentsManagementBusinessLayer.pdb
+C:\Users\G.B\source\repos\StudentsManagementBusinessLayer\obj\Debug\StudentsManagementBusinessLayer.csproj.AssemblyReference.cache

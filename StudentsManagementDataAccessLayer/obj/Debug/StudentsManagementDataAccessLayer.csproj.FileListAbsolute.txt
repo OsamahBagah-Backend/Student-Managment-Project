@@ -1,0 +1,6 @@
+C:\Users\G.B\source\repos\StudentsManagementDataAccessLayer\bin\Debug\StudentsManagementDataAccessLayer.dll
+C:\Users\G.B\source\repos\StudentsManagementDataAccessLayer\bin\Debug\StudentsManagementDataAccessLayer.pdb
+C:\Users\G.B\source\repos\StudentsManagementDataAccessLayer\obj\Debug\StudentsManagementDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\G.B\source\repos\StudentsManagementDataAccessLayer\obj\Debug\StudentsManagementDataAccessLayer.dll
+C:\Users\G.B\source\repos\StudentsManagementDataAccessLayer\obj\Debug\StudentsManagementDataAccessLayer.pdb
+C:\Users\G.B\source\repos\StudentsManagementDataAccessLayer\obj\Debug\StudentsManagementDataAccessLayer.csproj.AssemblyReference.cache
